@@ -1,0 +1,36 @@
+  body {
+    background:#222 none repeat scroll 0 0;
+    color:#666;
+    font-family: Helvetica;
+    font-size:72%;
+    margin:0;
+    border-top:1px solid #393939;
+  }
+
+  /* Definition List */
+  dl{
+      padding-top:10px;
+      clear:both;
+      margin:0;
+      list-style-type:none;
+      padding-left:10px;
+      overflow:auto;
+  }
+
+  dl > dt{
+     font-weight:bold;
+     float:left;
+     margin-left:5px;
+   }
+
+  dl > dd{
+     width:45px;
+     float:left;
+     color:#a87;
+     font-weight:bold;
+   }
+ 
+#canvas {
+  border: 1px solid #ffffff;
+  background-color: #0000ff;
+}
